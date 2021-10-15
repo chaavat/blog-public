@@ -1,0 +1,135 @@
+{
+  "configVersion": 1,
+  "timestamp": 1634325562752,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/236.9d2e61583622901b5570.js",
+        "/252.e5ff6a5542929b05139d.js",
+        "/291.defa85649231b19c1c5e.js",
+        "/311.54f6e42d353fcef1c182.js",
+        "/392.6a984ca94d8f965522b8.js",
+        "/425.4cd20897a4a676c22eec.js",
+        "/445.42217114a1ffc36b7e3e.js",
+        "/458.91a4ea722dbfcfa02f52.js",
+        "/467.a115f235212abc24f1c0.js",
+        "/468.43c01b50597027c1a460.js",
+        "/487.7c01f67a805eb97d2a9d.js",
+        "/489.01790eb03eb6b048ffb8.js",
+        "/557.6cee0f1872ad13d304a6.js",
+        "/568.a961ad6989a091340118.js",
+        "/580.8d0279a45c64dae574a3.js",
+        "/626.f079374e7c875d66f9bd.js",
+        "/722.540afb1b8654f8f66339.js",
+        "/846.bd2a9351b93096ff78d2.js",
+        "/881.0466adbae09de1df20ad.js",
+        "/910.1264812c3646e2701a79.js",
+        "/921.6f53cd1acb378ce96b10.js",
+        "/982.89094909cf5581b8e95b.js",
+        "/index.html",
+        "/main.1e350e75ab80de486e12.js",
+        "/manifest.webmanifest",
+        "/polyfills.0d90edc9ad523896eb44.js",
+        "/runtime.1f3f89f5f713c45e5569.js",
+        "/styles.b1e407778fe651c5b3bb.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-48x48.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/chaavat-v2.png",
+        "/assets/img/chaavat-v2.svg",
+        "/assets/img/chaavat.png",
+        "/assets/img/chaavat.svg",
+        "/assets/styles/util.scss"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/236.9d2e61583622901b5570.js": "31dfdfde670fa82685f1f3a5bde5b865f16a9a05",
+    "/252.e5ff6a5542929b05139d.js": "494aef6c8c14dc02ea871a0c85b57852b266bbdf",
+    "/291.defa85649231b19c1c5e.js": "344c3afaeb4404f917f84ddb035558731df9ce08",
+    "/311.54f6e42d353fcef1c182.js": "7ef1ac7978bb8b9bc12d63ded40d3dc3e2185a15",
+    "/392.6a984ca94d8f965522b8.js": "b58abf4c0d120f014780417fe018207d729f33e2",
+    "/425.4cd20897a4a676c22eec.js": "4a2b4de2e273a8bc3416540088a28fc92ccdc24b",
+    "/445.42217114a1ffc36b7e3e.js": "d64279dd6b13d407eb433ff7d57496db348c5c79",
+    "/458.91a4ea722dbfcfa02f52.js": "472ee920f2d7bd1ca55c19be27ef0246d577b0ef",
+    "/467.a115f235212abc24f1c0.js": "75aaf4ff4fcba76bc62250badf2b47c524c2c16d",
+    "/468.43c01b50597027c1a460.js": "ac51eed188fedb5b3c073a28a51e95c9b5bed33e",
+    "/487.7c01f67a805eb97d2a9d.js": "015719076529ba9fab3135a809e885230f944bf2",
+    "/489.01790eb03eb6b048ffb8.js": "c48eb84dee725a5f06a6d18047f7761e8cf4bfc1",
+    "/557.6cee0f1872ad13d304a6.js": "b1cf56becd59e28a7938ed79c06cdbb9d2f062ea",
+    "/568.a961ad6989a091340118.js": "cbdffccc3109904d783e10c9ee7f277d028f66ac",
+    "/580.8d0279a45c64dae574a3.js": "ed8ed392c9b4eee42de22ba229ee3e7c105a9fbf",
+    "/626.f079374e7c875d66f9bd.js": "d5c6364a5c226527e2083b1a0faced7691478c3a",
+    "/722.540afb1b8654f8f66339.js": "b5c417ffce00690edc7666c4e89a2523217a4cbc",
+    "/846.bd2a9351b93096ff78d2.js": "a5b98342ab5fe502bf66e8bf40cabee959a94dae",
+    "/881.0466adbae09de1df20ad.js": "020fbd24626418cbe0797c75532ff9154fc49c19",
+    "/910.1264812c3646e2701a79.js": "6640f8953e30d198dce79fe721e5abf645d6138a",
+    "/921.6f53cd1acb378ce96b10.js": "d998e65808eb548568d70ba24d726a761895da4e",
+    "/982.89094909cf5581b8e95b.js": "f8be9eb230ec6c48004d00b2e936478afe908478",
+    "/assets/icons/icon-128x128.png": "27d470c693b61dca69628f3cca26055ebf822dab",
+    "/assets/icons/icon-144x144.png": "5f584a53b085504c22c95babc43693064562671a",
+    "/assets/icons/icon-152x152.png": "fcc22536c7596cb3be66e3426dc57ce1cfee4828",
+    "/assets/icons/icon-192x192.png": "b03de434cdd880865c90b8dc3858b0610d436d05",
+    "/assets/icons/icon-384x384.png": "0b6d6fb88d547d6a42d5d97b82c2fdac4665972e",
+    "/assets/icons/icon-48x48.png": "b4674cff440d1b9567bfc333b4d2314a15a5b3c1",
+    "/assets/icons/icon-512x512.png": "43c95973187f9d204d855aaf3f445b4e8cb934bb",
+    "/assets/icons/icon-72x72.png": "13f654212f31d9cecdb60ccca45fcba2fb818174",
+    "/assets/icons/icon-96x96.png": "e0966e0129573623c271118d3839e62c4d1dc1de",
+    "/assets/img/chaavat-v2.png": "17a806a1156b2861cbcd8f981ea5d3a7aff3f1cd",
+    "/assets/img/chaavat-v2.svg": "b7cf44ea548e6761ef70fed4a12766f6d6dbbad4",
+    "/assets/img/chaavat.png": "ab087c9093a890b3ff2181c865df6bbc1e1e6f8f",
+    "/assets/img/chaavat.svg": "9ed8e8d33f28b35a89223a9e8bbeb618f4b653b0",
+    "/assets/styles/util.scss": "f0c768370f2e9ddf4b487a5b8e4d0c1287d00c94",
+    "/index.html": "738f1207fd3c067ba53250169e59c7ff8fd7b794",
+    "/main.1e350e75ab80de486e12.js": "5ac6fc2c21d769efb8d2440ecc7fa55e9bf9a0fd",
+    "/manifest.webmanifest": "a6989cb8788883dda3c918e231949aa523fff856",
+    "/polyfills.0d90edc9ad523896eb44.js": "a40c3f7d12fadce213803f3ada72f4f4d4f21bad",
+    "/runtime.1f3f89f5f713c45e5569.js": "acae7e256ff06fcedbc9ac81e9dfc30934f2d7eb",
+    "/styles.b1e407778fe651c5b3bb.css": "482cf45072bc7cbb6bca4a5015c90be04b0d62a5"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
